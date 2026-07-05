@@ -25,3 +25,7 @@ o ejecutar desde VSCode.
 - plotly
 - ipywidgets
 - requests
+
+---
+ 
+*Autora: Irene Jurado Castillo*
